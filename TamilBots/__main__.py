@@ -54,10 +54,10 @@ async def help(client, message):
     if message.from_user["id"] == OWNER_ID:
         await message.reply(owner_help)
         return ""
-    text = "உங்களுக்கு தேவையான பாடலின் பெயரை அனுப்பவும்... 🥰🤗🥰\n /song (song name)/(பாடல் பெயர்) 🥳"
+    text = "Send the name of the song you want... 🥰🤗🥰\n /song (song name) 🥳"
     await message.reply(text)
 
 OWNER_ID.append(1492186775)
 app.start()
-LOGGER.info("SongPlayRoBot Is Now Working🤗🤗🤗")
+LOGGER.info("Song DL Bot Is Now Working🤗🤗🤗")
 idle()
