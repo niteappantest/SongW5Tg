@@ -8,7 +8,7 @@ Demo : [SONG DOWNLOADER](https://t.me/song_dwldr_bot) 💃🏻
 Easy To Deploy 🤗
 
 # Click Below Image to Deploy
-[![Deploy](https://ibb.co/y8RdkR4)](https://heroku.com/deploy?template=https://github.com/niteappantest/SongW5Tg.git)
+[![Deploy](https://telegra.ph/file/764fc46af2d33e0eade14.jpg)](https://heroku.com/deploy?template=https://github.com/niteappantest/SongW5Tg.git)
 # DEPLOY
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/niteappantest/SongW5Tg.git)
 
