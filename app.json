@@ -1,6 +1,6 @@
 {
     "name": "SongW5Tg",
-    "logo": "https://telegra.ph/SONG-DL-BOT-05-24",
+    "logo": "https://telegra.ph/file/764fc46af2d33e0eade14.jpg",
     "description": "Grabs song from yt and sends it to telegram by @song_dwldr_bot",
     "env": {
         "API_ID": {
